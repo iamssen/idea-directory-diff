@@ -3,7 +3,7 @@
   "displayName": "Idea Directory Diff",
   "description": "Execute shell command 'idea diff {dir} {dir}' in VSCode",
   "version": "0.0.1",
-  "publisher": "Lee Seoyeon",
+  "publisher": "iamssen",
   "engines": {
     "vscode": "^1.26.0"
   },
